@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi, I'm Satish 👋
@@ -41,8 +40,8 @@ Keeping systems running smoothly, automating, monitoring, and improving everythi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=satish627&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=satish627&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satish627&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satish627&theme=tokyonight" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=satish627&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
