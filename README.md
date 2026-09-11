@@ -51,7 +51,7 @@ Keeping systems running smoothly, automating, monitoring, and improving everythi
 
 <div align="center">
 
-💬 Ask me about **MERN** · ⚡ Fun fact: **I love to code**
+💬 Ask me about **Nothing** · ⚡ Fun fact: **I love to sleep**
 
 <img src="https://komarev.com/ghpvc/?username=satish627&label=Profile+views&color=6366f1&style=flat-square" alt="Profile views" />
 
